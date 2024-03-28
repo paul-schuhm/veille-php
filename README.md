@@ -37,6 +37,7 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 
 - [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
 - [phpweekly](https://www.phpweekly.com/), newsletter hebdomadaire sur l'écosystème PHP
+- [php.developpez.com](https://php.developpez.com/), actualités, ressources pour apprendre PHP
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 
 
