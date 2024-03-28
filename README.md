@@ -69,6 +69,8 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 
 ## Livres
 
-- *Modern PHP: new features and good practices*, Josh Lochart, Edition O'REILLY, 2015
-- *Professional WordPress: Design and Development* de Brad Williams et David Damstra, Edition Wrox, 3rd Edition, 2015
-- *Professional WordPress Plugin Development* de Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
+- *[Modern PHP: new features and good practices](https://www.oreilly.com/library/view/modern-php/9781491905173/)*, Josh Lochart, Edition O'Reilly Media, Inc., 2015
+- *[Professional WordPress: Design and Development](https://www.wiley.com/en-hk/Professional+WordPress:+Design+and+Development,+3rd+Edition-p-9781118987247)*, Brad Williams et David Damstra, Edition Wrox, 3rd Edition, 2015
+- *[Professional WordPress Plugin Development](https://www.oreilly.com/library/view/professional-wordpress-plugin/9781119666943/)*, Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
+- [*Essential PHP Security*](https://www.oreilly.com/library/view/essential-php-security/059600656X/), Chris Shiflett, O'Reilly Media, Inc., 2005
+- [PHP in Action : Objects, Design, Agility](https://www.manning.com/books/php-in-action), Dagfinn Reiersol, Marcus Baker et Chris Shiflett, Manning, 2007 
