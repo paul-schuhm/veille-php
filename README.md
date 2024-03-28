@@ -3,34 +3,52 @@
 Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystème PHP
 
 - [Veille PHP](#veille-php)
-  - [Références](#références)
+  - [Officiel, Semi-officiel et core members](#officiel-semi-officiel-et-core-members)
+  - [Tooling/Écosystème](#toolingécosystème)
+  - [Actualités, recommandations](#actualités-recommandations)
+  - [Conférences](#conférences)
   - [Articles](#articles)
+  - [Misc](#misc)
+  - [Livres](#livres)
 
 
-## Références
+## Officiel, Semi-officiel et core members
 
-- [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
-- [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
+- [Site officiel de PHP](https://www.php.net/)
 - [The PHP Foundation](https://thephp.foundation/), groupe de travail sur l'écosystème PHP. [En savoir plus](https://www.youtube.com/watch?v=JBPtPy9iSP0).
 - [PHP-FIG](https://www.php-fig.org/), le PHP Framework Interop Group, à l'origine des [PSR](https://www.php-fig.org/psr/)
-- [packagist](https://packagist.org/), dépôt principal des composants PHP  
-- [pecl](https://pecl.php.net/), le repertoire officiel des extensions de PHP ([Modernisation de la distribution et maintenance envisagée](https://externals.io/message/121927) par la communauté et initiée par la PHP Foundation et Derick Rethans)
-- [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
-- [Afup](https://afup.org/home), association française des utilisateurs de PHP
-- [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
-- [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
-- [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
-- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
-- [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
 - [Le blog de Fabien Potencier](http://fabien.potencier.org/)
 - [Le blog de Kévin Dunglas](https://dunglas.dev/), membre core de Symfony, mainteneur de FrankenPHP et du [protocole Mercure](https://mercure.rocks/) (entre autres). Un grand développeur et contributeur de l'écosystème PHP notamment, plein d'humilité
-- [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
-- [PHP Quality Assurance](https://qa.php.net/)
+- [Afup](https://afup.org/home), association française des utilisateurs de PHP
 
+
+## Tooling/Écosystème
+
+- [Composer](https://getcomposer.org/), le gestionnaire de dépendances et de gestion d'autoloading de PHP
+- [packagist](https://packagist.org/), dépôt principal des composants PHP  
+- [pecl](https://pecl.php.net/), le repertoire officiel des extensions de PHP ([Modernisation de la distribution et maintenance envisagée](https://externals.io/message/121927) par la communauté et initiée par la PHP Foundation et Derick Rethans)
+- [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
+- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
+- [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
+- [PHP Quality Assurance](https://qa.php.net/)
+- [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
+
+## Actualités, recommandations
+
+- [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
+- [phpweekly](https://www.phpweekly.com/), newsletter hebdomadaire sur l'écosystème PHP
+- [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
+
+
+## Conférences
+
+- [PHP UK Conferences (en)](https://www.youtube.com/c/phpukconference), oui c'est la chaine de la conférence éponyme et oui ça parle de PHP. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
+- [AFUP PHP (fr)](https://www.youtube.com/@afupPHP), des tonnes de conférences de la communauté PHP française, beaucoup de conférences vraiment intéressantes et de qualité
+- [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
 
 ## Articles
 
-
+- [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
 - [Stop using old-fashioned closures in modern PHP. There are 4* ways to replace them.](https://medium.com/@vlreshet/stop-using-old-fashioned-closures-in-modern-php-there-are-4-ways-to-replace-them-51d8661e2f7e)
 - [Elegant immutable object pattern in PHP ](https://dev.to/hbgl/elegant-immutable-object-pattern-in-php-1dg3)
 - [PHP Sessions in Depth](https://www.phparch.com/2018/01/php-sessions-in-depth/)
@@ -38,3 +56,19 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 - [Borrowing Functional Concepts from Clojure in PHP](https://www.codementor.io/@blackwood/borrowing-functional-concepts-from-clojure-in-php-tj19wofx6)
 - [Mastering binary and bitwise in PHP](https://thephp.website/en/issue/bitwise-php/)
 - [10 Tips and Best Practices To Improve PHP Security](https://www.yeahhub.com/10-tips-best-practices-improve-php-security/)
+
+
+## Misc
+
+
+- [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
+- [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
+- [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
+- [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
+
+
+## Livres
+
+- *Modern PHP: new features and good practices*, Josh Lochart, Edition O'REILLY, 2015
+- *Professional WordPress: Design and Development* de Brad Williams et David Damstra, Edition Wrox, 3rd Edition, 2015
+- *Professional WordPress Plugin Development* de Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
