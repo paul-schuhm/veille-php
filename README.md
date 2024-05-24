@@ -4,6 +4,7 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 
 - [Veille PHP](#veille-php)
   - [Officiel, Semi-officiel et core members](#officiel-semi-officiel-et-core-members)
+  - [Implémentations](#implémentations)
   - [Tooling/Écosystème](#toolingécosystème)
   - [Actualités, recommandations](#actualités-recommandations)
   - [Conférences](#conférences)
@@ -22,6 +23,11 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 - [Afup](https://afup.org/home), association française des utilisateurs de PHP
 
 
+## Implémentations
+
+- Zend Engine : une implémentation de PHP open source, par [Zend Technologies](https://www.zend.com/);
+- [Hip Hop Virtual Machine for PHP (HHVM)](https://en.wikipedia.org/wiki/HHVM) : développé par Méta/Facebook, avec [le langage Hack](https://hacklang.org/), un dialecte PHP fortement typé
+
 ## Tooling/Écosystème
 
 - [Composer](https://getcomposer.org/), le gestionnaire de dépendances et de gestion d'autoloading de PHP
@@ -29,6 +35,7 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 - [pecl](https://pecl.php.net/), le repertoire officiel des extensions de PHP ([Modernisation de la distribution et maintenance envisagée](https://externals.io/message/121927) par la communauté et initiée par la PHP Foundation et Derick Rethans)
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
+- [psalm](https://psalm.dev/), analyseur statique de code, notamment inspiré de Hack
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
 - [PHP Quality Assurance](https://qa.php.net/)
 - [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
@@ -57,7 +64,7 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 - [Borrowing Functional Concepts from Clojure in PHP](https://www.codementor.io/@blackwood/borrowing-functional-concepts-from-clojure-in-php-tj19wofx6)
 - [Mastering binary and bitwise in PHP](https://thephp.website/en/issue/bitwise-php/)
 - [10 Tips and Best Practices To Improve PHP Security](https://www.yeahhub.com/10-tips-best-practices-improve-php-security/)
-
+- [Preventing Duplicate Form Submissions Using Atomic Locks](https://dev.to/daryllegion/preventing-duplicate-form-submissions-using-atomic-locks-42p0)
 
 ## Misc
 
