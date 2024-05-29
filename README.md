@@ -39,6 +39,7 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
 - [PHP Quality Assurance](https://qa.php.net/)
 - [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
+- [phpBench](https://phpbench.readthedocs.io/en/latest/), un framework de benchmark pour PHP, inspiré de PHPUnit
 
 ## Actualités, recommandations
 
