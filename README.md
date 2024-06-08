@@ -33,13 +33,16 @@ Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystè
 - [Composer](https://getcomposer.org/), le gestionnaire de dépendances et de gestion d'autoloading de PHP
 - [packagist](https://packagist.org/), dépôt principal des composants PHP  
 - [pecl](https://pecl.php.net/), le repertoire officiel des extensions de PHP ([Modernisation de la distribution et maintenance envisagée](https://externals.io/message/121927) par la communauté et initiée par la PHP Foundation et Derick Rethans)
-- [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
+- [phpCodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer/), l'outil puissant pour appliquer des standards de manière semi-automatisé à son code source. Composé de deux programmes: `phpcs` pour détecter les erreurs dans votre code et `phpcbs` pour corriger automatiquement celles qui peuvent l'être
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
 - [psalm](https://psalm.dev/), analyseur statique de code, notamment inspiré de Hack
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
 - [PHP Quality Assurance](https://qa.php.net/)
 - [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
 - [phpBench](https://phpbench.readthedocs.io/en/latest/), un framework de benchmark pour PHP, inspiré de PHPUnit
+- [PHP Coding Standards Fixer](https://cs.symfony.com/), un outil de qualité de code (linter, fixer) qui analyse et corrige automatiquement les sources au regard des standards définis les règles des PSR. Développé par Fabien Potencier et Dariusz Rumiński
+- [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles 
+
 
 ## Actualités, recommandations
 
