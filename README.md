@@ -1,6 +1,6 @@
 # Veille PHP
 
-Un ensemble de ressources et d'articles pour faire de la veille sur l'écosystème PHP
+Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à jour régulièrement.
 
 - [Veille PHP](#veille-php)
   - [Officiel, Semi-officiel et core members](#officiel-semi-officiel-et-core-members)
