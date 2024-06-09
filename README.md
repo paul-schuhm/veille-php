@@ -15,7 +15,8 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 
 ## Officiel, Semi-officiel et core members
 
-- [Site officiel de PHP](https://www.php.net/)
+- [Site web officiel et central de PHP](https://www.php.net/)
+- [Sites affiliés à php.net](https://www.php.net/sites.php), tous les sites affiliés au site officiel (bugs, [talks](http://talks.php.net/index.php), etc.)
 - [The PHP Foundation](https://thephp.foundation/), groupe de travail sur l'écosystème PHP. [En savoir plus](https://www.youtube.com/watch?v=JBPtPy9iSP0).
 - [PHP-FIG](https://www.php-fig.org/), le PHP Framework Interop Group, à l'origine des [PSR](https://www.php-fig.org/psr/)
 - [Le blog de Fabien Potencier](http://fabien.potencier.org/)
