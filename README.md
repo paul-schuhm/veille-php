@@ -70,6 +70,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Mastering binary and bitwise in PHP](https://thephp.website/en/issue/bitwise-php/)
 - [10 Tips and Best Practices To Improve PHP Security](https://www.yeahhub.com/10-tips-best-practices-improve-php-security/)
 - [Preventing Duplicate Form Submissions Using Atomic Locks](https://dev.to/daryllegion/preventing-duplicate-form-submissions-using-atomic-locks-42p0)
+- [nginx: doing ip geolocation right in nginx ](https://dev.to/gbhorwood/nginx-doing-ip-geolocation-right-in-nginx-442h)
 
 ## Misc
 
