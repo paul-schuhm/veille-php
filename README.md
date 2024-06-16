@@ -53,12 +53,12 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [php.developpez.com](https://php.developpez.com/), actualités, ressources pour apprendre PHP
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 - [OWASP : PHP Configuration Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
-- [Paragon Initiative Enterprises Blog : The 2018 Guide to Building Secure PHP Software ](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software), le guide de la Paragon Initiative pour livrer des systèmes php sécurisés
+- [Paragon Initiative Enterprises Blog : The 2018 Guide to Building Secure PHP Software ](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software), le guide de la Paragon Initiative pour livrer des systèmes PHP sécurisés
 
 
 ## Conférences
 
-- [PHP UK Conferences (en)](https://www.youtube.com/c/phpukconference), oui c'est la chaine de la conférence éponyme et oui ça parle de PHP. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
+- [PHP UK Conferences (en)](https://www.youtube.com/c/phpukconference), la chaîne de la conférence éponyme. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
 - [AFUP PHP (fr)](https://www.youtube.com/@afupPHP), des tonnes de conférences de la communauté PHP française, beaucoup de conférences vraiment intéressantes et de qualité
 - [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
 
