@@ -43,7 +43,8 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [phpBench](https://phpbench.readthedocs.io/en/latest/), un framework de benchmark pour PHP, inspiré de PHPUnit
 - [PHP Coding Standards Fixer](https://cs.symfony.com/), un outil de qualité de code (linter, fixer) qui analyse et corrige automatiquement les sources au regard des standards définis les règles des PSR. Développé par Fabien Potencier et Dariusz Rumiński
 - [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles 
-
+- [Snuffleupagus](https://snuffleupagus.readthedocs.io/), module PHP conçu pour réduire de manière drastique les coûts liés aux attaques de sites web PHP
+- [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP 
 
 ## Actualités, recommandations
 
@@ -51,6 +52,8 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [phpweekly](https://www.phpweekly.com/), newsletter hebdomadaire sur l'écosystème PHP
 - [php.developpez.com](https://php.developpez.com/), actualités, ressources pour apprendre PHP
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
+- [OWASP : PHP Configuration Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
+- [Paragon Initiative Enterprises Blog : The 2018 Guide to Building Secure PHP Software ](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software), le guide de la Paragon Initiative pour livrer des systèmes php sécurisés
 
 
 ## Conférences
