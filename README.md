@@ -44,7 +44,6 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [PHP Coding Standards Fixer](https://cs.symfony.com/), un outil de qualité de code (linter, fixer) qui analyse et corrige automatiquement les sources au regard des standards définis les règles des PSR. Développé par Fabien Potencier et Dariusz Rumiński
 - [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles 
 - [Snuffleupagus](https://snuffleupagus.readthedocs.io/), module PHP conçu pour réduire de manière drastique les coûts liés aux attaques de sites web PHP
-- [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP 
 
 ## Actualités, recommandations
 
@@ -78,6 +77,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 
 ## Misc
 
+- [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
 - [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
