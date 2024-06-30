@@ -82,6 +82,8 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
 - [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
 - [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
+- [(The only proper) PDO tutorial](https://phpdelusions.net/pdo), un très bon site (maintenu) qui propose des tutoriels pour mieux comprendre le module PDO (la documentation n'est en effet pas toujours complète et explicite sur les différents paramètres du module) et d'autres sujets sur PHP;
+
 
 ## Livres
 
