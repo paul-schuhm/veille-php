@@ -74,6 +74,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Preventing Duplicate Form Submissions Using Atomic Locks](https://dev.to/daryllegion/preventing-duplicate-form-submissions-using-atomic-locks-42p0)
 - [nginx: doing ip geolocation right in nginx ](https://dev.to/gbhorwood/nginx-doing-ip-geolocation-right-in-nginx-442h)
 - [Using Models as Flags](https://alsterholm.com/blog/2024/using-models-as-flags), il y a mieux qu'un booléen pour maintenir l'auditabilité d'une donnée (quand, par qui et pourquoi a-t-elle été altérée)
+- [Streams in PHP: What you really need to know](https://dev.to/gabrieloliverio/streams-in-php-55kb), un article qui couvre les *streams* PHP par la pratique et clarifie quelques obscurités de la doc officielle à leur propos
 
 ## Misc
 
