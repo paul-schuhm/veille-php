@@ -45,6 +45,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles 
 - [Snuffleupagus](https://snuffleupagus.readthedocs.io/), module PHP conçu pour réduire de manière drastique les coûts liés aux attaques de sites web PHP
 - [CacheTool - Manage cache in the CLI](https://github.com/gordalina/cachetool), un outil CLI pour gérer le cache (opcache) de PHP;
+- [PHPArkitect](https://github.com/phparkitect/arkitect), un outil d'analyse statique de code qui permet d'imposer des contraintes d'organisation (namespaces, dépendances, interfaces, etc.) sur les sources, en utilisant la Reflection API
 
 ## Actualités, recommandations
 
@@ -77,6 +78,9 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Using Models as Flags](https://alsterholm.com/blog/2024/using-models-as-flags), il y a mieux qu'un booléen pour maintenir l'auditabilité d'une donnée (quand, par qui et pourquoi a-t-elle été altérée)
 - [Streams in PHP: What you really need to know](https://dev.to/gabrieloliverio/streams-in-php-55kb), un article qui couvre les *streams* PHP par la pratique et clarifie quelques obscurités de la doc officielle à leur propos
 - [Fixing Our OPcache Config Sped Up Our PHP Application By 3x](https://engineering.oneutilitybill.co/fixing-our-opcache-config-sped-up-our-php-application-by-3x-871c6fe49be1)
+- [How to enable/disable PHP native functions – php.ini Tutorial](https://dev.to/inspector/how-to-enabledisable-php-native-functions-phpini-tutorial-kpg), de Valerio.
+- [PHP Libraries for PDF Handling: Evaluation and Use Case Guide ](https://dev.to/prahladyeri/php-libraries-for-pdf-handling-evaluation-and-use-case-guide-n9o), curation d'une liste de lib php pour fabriquer des PDF
+
 
 ## Misc
 
