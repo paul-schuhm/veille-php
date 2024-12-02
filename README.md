@@ -46,6 +46,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Snuffleupagus](https://snuffleupagus.readthedocs.io/), module PHP conçu pour réduire de manière drastique les coûts liés aux attaques de sites web PHP
 - [CacheTool - Manage cache in the CLI](https://github.com/gordalina/cachetool), un outil CLI pour gérer le cache (opcache) de PHP;
 - [PHPArkitect](https://github.com/phparkitect/arkitect), un outil d'analyse statique de code qui permet d'imposer des contraintes d'organisation (namespaces, dépendances, interfaces, etc.) sur les sources, en utilisant la Reflection API
+- [phptop](https://github.com/bearstech/phptop), un profiler de scripts php, développé et maintenu par [bearstech](https://bearstech.com/)
 
 ## Actualités, recommandations
 
