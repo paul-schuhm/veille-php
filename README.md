@@ -34,7 +34,8 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Composer](https://getcomposer.org/), le gestionnaire de dépendances et de gestion d'autoloading de PHP
 - [packagist](https://packagist.org/), dépôt principal des composants PHP  
 - [pecl](https://pecl.php.net/), le repertoire officiel des extensions de PHP ([Modernisation de la distribution et maintenance envisagée](https://externals.io/message/121927) par la communauté et initiée par la PHP Foundation et Derick Rethans)
-- [phpCodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer/), l'outil puissant pour appliquer des standards de manière semi-automatisé à son code source. Composé de deux programmes: `phpcs` pour détecter les erreurs dans votre code et `phpcbs` pour corriger automatiquement celles qui peuvent l'être
+- [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer/), l'outil puissant pour appliquer des standards de manière semi-automatisé à son code source. Composé de deux programmes: `phpcs` pour détecter les erreurs dans votre code et `phpcbs` pour corriger automatiquement celles qui peuvent l'être
+- [PHP Coding Standards Fixer (PHP CS)](https://cs.symfony.com/doc/installation.html), le linter développé par l'équipe de Symfony;
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
 - [psalm](https://psalm.dev/), analyseur statique de code, notamment inspiré de Hack
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
