@@ -81,6 +81,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Fixing Our OPcache Config Sped Up Our PHP Application By 3x](https://engineering.oneutilitybill.co/fixing-our-opcache-config-sped-up-our-php-application-by-3x-871c6fe49be1)
 - [How to enable/disable PHP native functions – php.ini Tutorial](https://dev.to/inspector/how-to-enabledisable-php-native-functions-phpini-tutorial-kpg), de Valerio.
 - [PHP Libraries for PDF Handling: Evaluation and Use Case Guide ](https://dev.to/prahladyeri/php-libraries-for-pdf-handling-evaluation-and-use-case-guide-n9o), curation d'une liste de lib php pour fabriquer des PDF
+- [PHP 8.0: Attributes](https://php.watch/versions/8.0/attributes), un très bon article sur l'usage et l'utilité des attributs. Actuellement (01/2025) bien meilleur que [la documentation officielle](https://www.php.net/manual/fr/language.attributes.php) sur le sujet
 
 
 ## Misc
