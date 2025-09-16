@@ -57,7 +57,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 - [OWASP : PHP Configuration Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
 - [Paragon Initiative Enterprises Blog : The 2018 Guide to Building Secure PHP Software ](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software), le guide de la Paragon Initiative pour livrer des systèmes PHP sécurisés
-
+- [PHP Architect](https://www.phparch.com/), Professional development for web developers: books, **magazine**, podcasts, events and more.
 
 ## Conférences
 
