@@ -3,17 +3,17 @@
 Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à jour régulièrement.
 
 - [Veille PHP](#veille-php)
-  - [Officiel, Semi-officiel et core members](#officiel-semi-officiel-et-core-members)
+  - [Officiel, Semi-officiel et *core* members](#officiel-semi-officiel-et-core-members)
   - [Implémentations](#implémentations)
   - [Tooling/Écosystème](#toolingécosystème)
   - [Actualités, recommandations](#actualités-recommandations)
-  - [Conférences](#conférences)
+  - [Conférences et vidéos](#conférences-et-vidéos)
   - [Articles](#articles)
   - [Misc](#misc)
   - [Livres](#livres)
 
 
-## Officiel, Semi-officiel et core members
+## Officiel, Semi-officiel et *core* members
 
 - [Site web officiel et central de PHP](https://www.php.net/)
 - [Sites affiliés à php.net](https://www.php.net/sites.php), tous les sites affiliés au site officiel (bugs, [talks](http://talks.php.net/index.php), etc.)
@@ -59,7 +59,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Paragon Initiative Enterprises Blog : The 2018 Guide to Building Secure PHP Software ](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software), le guide de la Paragon Initiative pour livrer des systèmes PHP sécurisés
 - [PHP Architect](https://www.phparch.com/), Professional development for web developers: books, **magazine**, podcasts, events and more.
 
-## Conférences
+## Conférences et vidéos
 
 - [PHP UK Conferences (en)](https://www.youtube.com/c/phpukconference), la chaîne de la conférence éponyme. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
 - [AFUP PHP (fr)](https://www.youtube.com/@afupPHP), des tonnes de conférences de la communauté PHP française, beaucoup de conférences vraiment intéressantes et de qualité
@@ -67,6 +67,11 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 
 ## Articles
 
+- [The PHP Way of Life Manifesto](https://www.phpwayoflife.com/en/manifesto.html), d'Amaury Bouchard 
+- [Limitez votre PHP : optimisations pour une meilleure gestion des ressources](https://bearstech.com/societe/blog/limitez-votre-php), de 
+Vincent Caron (Bearstech)
+- [PHP’s New URI Extension: An Open Source Success Story](https://thephp.foundation/blog/2025/10/10/php-85-uri-extension/), PHP se dote d'une nouvelle API pour la gestion des URI, respectant les standards [RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986) et [WHATWG URL](https://url.spec.whatwg.org/)
+- [Sortie de PHP 8.5 : ce qu’il faut retenir](https://les-tilleuls.coop/blog/sortie-de-php-8-5-ce-quil-faut-retenir), par Vincent Amstoutz, [Les-Tilleuls.coop](https://les-tilleuls.coop/)
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
 - [Stop using old-fashioned closures in modern PHP. There are 4* ways to replace them.](https://medium.com/@vlreshet/stop-using-old-fashioned-closures-in-modern-php-there-are-4-ways-to-replace-them-51d8661e2f7e)
 - [Elegant immutable object pattern in PHP ](https://dev.to/hbgl/elegant-immutable-object-pattern-in-php-1dg3)
