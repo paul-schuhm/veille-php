@@ -101,8 +101,8 @@ Vincent Caron (Bearstech)
 
 ## Livres
 
-- *[Modern PHP: new features and good practices](https://www.oreilly.com/library/view/modern-php/9781491905173/)*, Josh Lochart, Edition O'Reilly Media, Inc., 2015. Excellent ouvrage
-- *[Professional WordPress: Design and Development](https://www.wiley.com/en-hk/Professional+WordPress:+Design+and+Development,+3rd+Edition-p-9781118987247)*, Brad Williams et David Damstra, Edition Wrox, 3rd Edition, 2015
-- *[Professional WordPress Plugin Development](https://www.oreilly.com/library/view/professional-wordpress-plugin/9781119666943/)*, Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
-- *[Essential PHP Security](https://www.oreilly.com/library/view/essential-php-security/059600656X/)*, Chris Shiflett, O'Reilly Media, Inc., 2005. Excellente introduction à la sécurité des applications en PHP, d'une grande concision. Une bonne référence à garder auprès de soi
-- [*PHP in Action : Objects, Design, Agility*](https://www.manning.com/books/php-in-action), Dagfinn Reiersol, Marcus Baker et Chris Shiflett, Manning, 2007 
+- [Modern PHP: new features and good practices](https://www.oreilly.com/library/view/modern-php/9781491905173/), Josh Lochart, Edition O'Reilly Media, Inc., 2015. Excellent ouvrage. **LP++**
+- [Professional WordPress: Design and Development](https://www.wiley.com/en-hk/Professional+WordPress:+Design+and+Development,+3rd+Edition-p-9781118987247), Brad Williams et David Damstra, Edition Wrox, 3rd Edition, 2015
+- [Professional WordPress Plugin Development](https://www.oreilly.com/library/view/professional-wordpress-plugin/9781119666943/), Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
+- [Essential PHP Security](https://www.oreilly.com/library/view/essential-php-security/059600656X/), Chris Shiflett, O'Reilly Media, Inc., 2005. Excellente introduction à la sécurité des applications en PHP, d'une grande concision. Une bonne référence à garder auprès de soi. **LP+**
+- [PHP in Action : Objects, Design, Agility](https://www.manning.com/books/php-in-action), Dagfinn Reiersol, Marcus Baker et Chris Shiflett, Manning, 2007 
