@@ -95,7 +95,6 @@ Vincent Caron (Bearstech)
 - [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
-- [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
 - [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
 - [(The only proper) PDO tutorial](https://phpdelusions.net/pdo), un très bon site (maintenu) qui propose des tutoriels pour mieux comprendre le module PDO (la documentation n'est en effet pas toujours complète et explicite sur les différents paramètres du module) et d'autres sujets sur PHP;
 
