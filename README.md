@@ -1,19 +1,18 @@
-# Veille PHP
+# Veille PHP <!-- omit from toc -->
 
 Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à jour régulièrement.
 
-- [Veille PHP](#veille-php)
-  - [Officiel, Semi-officiel et *core* members](#officiel-semi-officiel-et-core-members)
-  - [Implémentations](#implémentations)
-  - [Tooling/Écosystème](#toolingécosystème)
-  - [Actualités, recommandations](#actualités-recommandations)
-  - [Conférences et vidéos](#conférences-et-vidéos)
-  - [Articles](#articles)
-  - [Misc](#misc)
-  - [Livres](#livres)
-  - [Frameworks](#frameworks)
+- [Officiel, Semi-officiel et *core* members](#officiel-semi-officiel-et-core-members)
+- [Implémentations](#implémentations)
+- [Tooling/Écosystème](#toolingécosystème)
+- [Actualités, recommandations](#actualités-recommandations)
+- [Conférences et vidéos](#conférences-et-vidéos)
+- [Articles](#articles)
+- [Misc](#misc)
+- [Livres](#livres)
+- [Frameworks](#frameworks)
 
-## Officiel, Semi-officiel et *core* members
+## Officiel, Semi-officiel et *core* members 
 
 - [Site web officiel et central de PHP](https://www.php.net/)
 - [Sites affiliés à php.net](https://www.php.net/sites.php), tous les sites affiliés au site officiel (bugs, [talks](http://talks.php.net/index.php), etc.)
