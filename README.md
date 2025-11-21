@@ -34,13 +34,13 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Composer](https://getcomposer.org/), le gestionnaire de dépendances et de gestion d'autoloading de PHP
 - [packagist](https://packagist.org/), dépôt principal des composants PHP  
 - [pecl](https://pecl.php.net/), le repertoire officiel des extensions de PHP ([Modernisation de la distribution et maintenance envisagée](https://externals.io/message/121927) par la communauté et initiée par la PHP Foundation et Derick Rethans)
+- [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Objectif : remplacer la SAPI PHP-FPM. Est officiellement soutenu par la  [PHP Foundation](https://thephp.foundation/blog/2025/06/08/php-30/) !
 - [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer/), l'outil puissant pour appliquer des standards de manière semi-automatisé à son code source. Composé de deux programmes: `phpcs` pour détecter les erreurs dans votre code et `phpcbs` pour corriger automatiquement celles qui peuvent l'être
 - [PHP Coding Standards Fixer (PHP CS)](https://cs.symfony.com/doc/installation.html), le linter développé par l'équipe de Symfony;
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
 - [psalm](https://psalm.dev/), analyseur statique de code, notamment inspiré de Hack
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
 - [PHP Quality Assurance](https://qa.php.net/)
-- [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
 - [phpBench](https://phpbench.readthedocs.io/en/latest/), un framework de benchmark pour PHP, inspiré de PHPUnit
 - [PHP Coding Standards Fixer](https://cs.symfony.com/), un outil de qualité de code (linter, fixer) qui analyse et corrige automatiquement les sources au regard des standards définis les règles des PSR. Développé par Fabien Potencier et Dariusz Rumiński
 - [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles 
@@ -51,6 +51,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 
 ## Actualités, recommandations
 
+- [PHP 8.5 released](https://www.php.net/releases/8.5/en.php)
 - [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
 - [phpweekly](https://www.phpweekly.com/), newsletter hebdomadaire sur l'écosystème PHP
 - [php.developpez.com](https://php.developpez.com/), actualités, ressources pour apprendre PHP
@@ -67,6 +68,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 
 ## Articles
 
+- [30 years of PHP: FrankenPHP is now part of the PHP organisation](https://thephp.foundation/blog/2025/06/08/php-30/)
 - [The PHP Way of Life Manifesto](https://www.phpwayoflife.com/en/manifesto.html), d'Amaury Bouchard 
 - [Limitez votre PHP : optimisations pour une meilleure gestion des ressources](https://bearstech.com/societe/blog/limitez-votre-php), de 
 Vincent Caron (Bearstech)
