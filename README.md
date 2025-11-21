@@ -11,7 +11,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
   - [Articles](#articles)
   - [Misc](#misc)
   - [Livres](#livres)
-
+  - [Frameworks](#frameworks)
 
 ## Officiel, Semi-officiel et *core* members
 
@@ -19,10 +19,9 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Sites affiliés à php.net](https://www.php.net/sites.php), tous les sites affiliés au site officiel (bugs, [talks](http://talks.php.net/index.php), etc.)
 - [The PHP Foundation](https://thephp.foundation/), groupe de travail sur l'écosystème PHP. [En savoir plus](https://www.youtube.com/watch?v=JBPtPy9iSP0).
 - [PHP-FIG](https://www.php-fig.org/), le PHP Framework Interop Group, à l'origine des [PSR](https://www.php-fig.org/psr/)
-- [Le blog de Fabien Potencier](http://fabien.potencier.org/)
-- [Le blog de Kévin Dunglas](https://dunglas.dev/), membre core de Symfony, mainteneur de FrankenPHP et du [protocole Mercure](https://mercure.rocks/) (entre autres). Un grand développeur et contributeur de l'écosystème PHP notamment, plein d'humilité
+- [Le blog de Fabien Potencier](http://fabien.potencier.org/), créateur de Symfony
+- [Le blog de Kévin Dunglas](https://dunglas.dev/), membre *core* de Symfony, cofondateur [Les-Tilleuls.coop](https://les-tilleuls.coop/), créateur d'API Platform, [FrankenPHP](https://frankenphp.dev/) et du [protocole Mercure](https://mercure.rocks/) (entre autres). Un grand développeur et contributeur de l'écosystème PHP notamment, plein d'humilité
 - [Afup](https://afup.org/home), association française des utilisateurs de PHP
-
 
 ## Implémentations
 
@@ -43,7 +42,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [PHP Quality Assurance](https://qa.php.net/)
 - [phpBench](https://phpbench.readthedocs.io/en/latest/), un framework de benchmark pour PHP, inspiré de PHPUnit
 - [PHP Coding Standards Fixer](https://cs.symfony.com/), un outil de qualité de code (linter, fixer) qui analyse et corrige automatiquement les sources au regard des standards définis les règles des PSR. Développé par Fabien Potencier et Dariusz Rumiński
-- [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles 
+- [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles
 - [Snuffleupagus](https://snuffleupagus.readthedocs.io/), module PHP conçu pour réduire de manière drastique les coûts liés aux attaques de sites web PHP
 - [CacheTool - Manage cache in the CLI](https://github.com/gordalina/cachetool), un outil CLI pour gérer le cache (opcache) de PHP;
 - [PHPArkitect](https://github.com/phparkitect/arkitect), un outil d'analyse statique de code qui permet d'imposer des contraintes d'organisation (namespaces, dépendances, interfaces, etc.) sur les sources, en utilisant la Reflection API
@@ -57,7 +56,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [php.developpez.com](https://php.developpez.com/), actualités, ressources pour apprendre PHP
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 - [OWASP : PHP Configuration Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
-- [Paragon Initiative Enterprises Blog : The 2018 Guide to Building Secure PHP Software ](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software), le guide de la Paragon Initiative pour livrer des systèmes PHP sécurisés
+- [Paragon Initiative Enterprises Blog : The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software), le guide de la Paragon Initiative pour livrer des systèmes PHP sécurisés
 - [PHP Architect](https://www.phparch.com/), Professional development for web developers: books, **magazine**, podcasts, events and more.
 
 ## Conférences et vidéos
@@ -69,37 +68,35 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 ## Articles
 
 - [30 years of PHP: FrankenPHP is now part of the PHP organisation](https://thephp.foundation/blog/2025/06/08/php-30/)
-- [The PHP Way of Life Manifesto](https://www.phpwayoflife.com/en/manifesto.html), d'Amaury Bouchard 
-- [Limitez votre PHP : optimisations pour une meilleure gestion des ressources](https://bearstech.com/societe/blog/limitez-votre-php), de 
+- [The PHP Way of Life Manifesto](https://www.phpwayoflife.com/en/manifesto.html), d'Amaury Bouchard
+- [Limitez votre PHP : optimisations pour une meilleure gestion des ressources](https://bearstech.com/societe/blog/limitez-votre-php), de
 Vincent Caron (Bearstech)
 - [PHP’s New URI Extension: An Open Source Success Story](https://thephp.foundation/blog/2025/10/10/php-85-uri-extension/), PHP se dote d'une nouvelle API pour la gestion des URI, respectant les standards [RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986) et [WHATWG URL](https://url.spec.whatwg.org/)
 - [Sortie de PHP 8.5 : ce qu’il faut retenir](https://les-tilleuls.coop/blog/sortie-de-php-8-5-ce-quil-faut-retenir), par Vincent Amstoutz, [Les-Tilleuls.coop](https://les-tilleuls.coop/)
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
 - [Stop using old-fashioned closures in modern PHP. There are 4* ways to replace them.](https://medium.com/@vlreshet/stop-using-old-fashioned-closures-in-modern-php-there-are-4-ways-to-replace-them-51d8661e2f7e)
-- [Elegant immutable object pattern in PHP ](https://dev.to/hbgl/elegant-immutable-object-pattern-in-php-1dg3)
+- [Elegant immutable object pattern in PHP](https://dev.to/hbgl/elegant-immutable-object-pattern-in-php-1dg3)
 - [PHP Sessions in Depth](https://www.phparch.com/2018/01/php-sessions-in-depth/)
 - [Session timeouts in PHP: best practices](https://newbedev.com/session-timeouts-in-php-best-practices)
 - [Borrowing Functional Concepts from Clojure in PHP](https://www.codementor.io/@blackwood/borrowing-functional-concepts-from-clojure-in-php-tj19wofx6)
 - [Mastering binary and bitwise in PHP](https://thephp.website/en/issue/bitwise-php/)
 - [10 Tips and Best Practices To Improve PHP Security](https://www.yeahhub.com/10-tips-best-practices-improve-php-security/)
 - [Preventing Duplicate Form Submissions Using Atomic Locks](https://dev.to/daryllegion/preventing-duplicate-form-submissions-using-atomic-locks-42p0)
-- [nginx: doing ip geolocation right in nginx ](https://dev.to/gbhorwood/nginx-doing-ip-geolocation-right-in-nginx-442h)
+- [nginx: doing ip geolocation right in nginx](https://dev.to/gbhorwood/nginx-doing-ip-geolocation-right-in-nginx-442h)
 - [Using Models as Flags](https://alsterholm.com/blog/2024/using-models-as-flags), il y a mieux qu'un booléen pour maintenir l'auditabilité d'une donnée (quand, par qui et pourquoi a-t-elle été altérée)
 - [Streams in PHP: What you really need to know](https://dev.to/gabrieloliverio/streams-in-php-55kb), un article qui couvre les *streams* PHP par la pratique et clarifie quelques obscurités de la doc officielle à leur propos
 - [Fixing Our OPcache Config Sped Up Our PHP Application By 3x](https://engineering.oneutilitybill.co/fixing-our-opcache-config-sped-up-our-php-application-by-3x-871c6fe49be1)
 - [How to enable/disable PHP native functions – php.ini Tutorial](https://dev.to/inspector/how-to-enabledisable-php-native-functions-phpini-tutorial-kpg), de Valerio.
-- [PHP Libraries for PDF Handling: Evaluation and Use Case Guide ](https://dev.to/prahladyeri/php-libraries-for-pdf-handling-evaluation-and-use-case-guide-n9o), curation d'une liste de lib php pour fabriquer des PDF
+- [PHP Libraries for PDF Handling: Evaluation and Use Case Guide](https://dev.to/prahladyeri/php-libraries-for-pdf-handling-evaluation-and-use-case-guide-n9o), curation d'une liste de lib php pour fabriquer des PDF
 - [PHP 8.0: Attributes](https://php.watch/versions/8.0/attributes), un très bon article sur l'usage et l'utilité des attributs. Actuellement (01/2025) bien meilleur que [la documentation officielle](https://www.php.net/manual/fr/language.attributes.php) sur le sujet
-
 
 ## Misc
 
-- [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP 
+- [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
 - [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
 - [(The only proper) PDO tutorial](https://phpdelusions.net/pdo), un très bon site (maintenu) qui propose des tutoriels pour mieux comprendre le module PDO (la documentation n'est en effet pas toujours complète et explicite sur les différents paramètres du module) et d'autres sujets sur PHP;
-
 
 ## Livres
 
@@ -107,4 +104,9 @@ Vincent Caron (Bearstech)
 - [Professional WordPress: Design and Development](https://www.wiley.com/en-hk/Professional+WordPress:+Design+and+Development,+3rd+Edition-p-9781118987247), Brad Williams et David Damstra, Edition Wrox, 3rd Edition, 2015
 - [Professional WordPress Plugin Development](https://www.oreilly.com/library/view/professional-wordpress-plugin/9781119666943/), Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
 - [Essential PHP Security](https://www.oreilly.com/library/view/essential-php-security/059600656X/), Chris Shiflett, O'Reilly Media, Inc., 2005. Excellente introduction à la sécurité des applications en PHP, d'une grande concision. Une bonne référence à garder auprès de soi. **LP+**
-- [PHP in Action : Objects, Design, Agility](https://www.manning.com/books/php-in-action), Dagfinn Reiersol, Marcus Baker et Chris Shiflett, Manning, 2007 
+- [PHP in Action : Objects, Design, Agility](https://www.manning.com/books/php-in-action), Dagfinn Reiersol, Marcus Baker et Chris Shiflett, Manning, 2007
+
+## Frameworks
+
+- [Symfony](https://symfony.com/), originellement *le portage de Ruby On Rails en PHP*
+- [API Platform](https://api-platform.com/), framework dédié au développement de services web
