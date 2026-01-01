@@ -21,6 +21,7 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Le blog de Fabien Potencier](http://fabien.potencier.org/), créateur de Symfony
 - [Le blog de Kévin Dunglas](https://dunglas.dev/), membre *core* de Symfony, cofondateur [Les-Tilleuls.coop](https://les-tilleuls.coop/), créateur d'API Platform, [FrankenPHP](https://frankenphp.dev/) et du [protocole Mercure](https://mercure.rocks/) (entre autres). Un grand développeur et contributeur de l'écosystème PHP notamment, plein d'humilité
 - [Afup](https://afup.org/home), association française des utilisateurs de PHP
+- [Request for Comments: Release Process](https://wiki.php.net/rfc/releaseprocess), fonctionnement de l'évolution et du cycle de développement de PHP
 
 ## Implémentations
 
@@ -46,6 +47,8 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [CacheTool - Manage cache in the CLI](https://github.com/gordalina/cachetool), un outil CLI pour gérer le cache (opcache) de PHP;
 - [PHPArkitect](https://github.com/phparkitect/arkitect), un outil d'analyse statique de code qui permet d'imposer des contraintes d'organisation (namespaces, dépendances, interfaces, etc.) sur les sources, en utilisant la Reflection API
 - [phptop](https://github.com/bearstech/phptop), un profiler de scripts php, développé et maintenu par [bearstech](https://bearstech.com/)
+- [parsedown](https://parsedown.org/), un parseur Markdown pour PHP (one file)
+- [PHP Matcher](https://github.com/coduo/php-matcher), lib pour tester/valider tous types de valeurs JSON/XML/TXT/scalaires par rapport à des patterns.
 
 ## Actualités, recommandations
 
@@ -66,8 +69,14 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 
 ## Articles
 
+- [5 Ways to Optimize Symfony Application Performance](https://dev.to/inspector/5-ways-to-optimize-symfony-application-performance-5ap8)
+- [Running a Symfony app on a VPS with Docker and FrankenPHP](https://les-tilleuls.coop/en/blog/running-a-symfony-app-on-a-vps-with-docker-and-frankenphp), publié par Les-Tilleuls.coop
+- [How to Prevent Session Hijacking: Secure PHP Session Management](https://systemweakness.com/how-to-prevent-session-hijacking-secure-php-session-management-788202018a6a)
+- [Le Manifeste PHP Way of Life](https://www.geek-directeur-technique.com/2025/03/01/le-manifeste-php-way-of-life), d'Amaury Bouchard. [The PHP Way of Life Manifesto](https://www.phpwayoflife.com/en/manifesto.html).
+- [Exploring PHP Spread Operator (`...`) for Arrays: Tips, Tricks & Real Use Cases](https://dev.to/dev-alamin/exploring-php-spread-operator-for-arrays-tips-tricks-real-use-cases-89f), d'Al Amin
+- [PHP 8.1: First-class Callable Syntax](https://php.watch/versions/8.1/first-class-callable-syntax), pour éclaircir plusieurs points sur les nouvelles syntaxes introduites en PHP 8, publié sur php.watch
+- [DDD in PHP: Common issues — Part 1](https://pronin-ihor.com/ddd-in-php-common-issues-part-1-9f935971e5a4), d'Ihor Pronin sur le DDD en pratique, anemic vs rich entities
 - [30 years of PHP: FrankenPHP is now part of the PHP organisation](https://thephp.foundation/blog/2025/06/08/php-30/)
-- [The PHP Way of Life Manifesto](https://www.phpwayoflife.com/en/manifesto.html), d'Amaury Bouchard
 - [Limitez votre PHP : optimisations pour une meilleure gestion des ressources](https://bearstech.com/societe/blog/limitez-votre-php), de
 Vincent Caron (Bearstech)
 - [PHP’s New URI Extension: An Open Source Success Story](https://thephp.foundation/blog/2025/10/10/php-85-uri-extension/), PHP se dote d'une nouvelle API pour la gestion des URI, respectant les standards [RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986) et [WHATWG URL](https://url.spec.whatwg.org/)
@@ -99,6 +108,7 @@ Vincent Caron (Bearstech)
 
 ## Livres
 
+- [PHP Internals Book](https://www.phpinternalsbook.com/), seul livre à ma connaissance qui aborde le fonctionnement et l'implémentation de la VM PHP
 - [Modern PHP: new features and good practices](https://www.oreilly.com/library/view/modern-php/9781491905173/), Josh Lochart, Edition O'Reilly Media, Inc., 2015. Excellent ouvrage. **LP++**
 - [Professional WordPress: Design and Development](https://www.wiley.com/en-hk/Professional+WordPress:+Design+and+Development,+3rd+Edition-p-9781118987247), Brad Williams et David Damstra, Edition Wrox, 3rd Edition, 2015
 - [Professional WordPress Plugin Development](https://www.oreilly.com/library/view/professional-wordpress-plugin/9781119666943/), Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
@@ -107,5 +117,7 @@ Vincent Caron (Bearstech)
 
 ## Frameworks
 
+- [Grav](https://github.com/getgrav/grav), un CMS *file based* simple
+- [Pico](https://picocms.org/), a stupidly simple & blazing fast, flat file CMS
 - [Symfony](https://symfony.com/), originellement *le portage de Ruby On Rails en PHP*
 - [API Platform](https://api-platform.com/), framework dédié au développement de services web
