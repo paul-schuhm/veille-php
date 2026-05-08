@@ -5,6 +5,8 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [Officiel, Semi-officiel et *core* members](#officiel-semi-officiel-et-core-members)
 - [Implémentations](#implémentations)
 - [Tooling/Écosystème](#toolingécosystème)
+  - [Analyse statique et linter](#analyse-statique-et-linter)
+  - [Tests](#tests)
 - [Actualités, recommandations](#actualités-recommandations)
 - [Conférences et vidéos](#conférences-et-vidéos)
 - [Articles](#articles)
@@ -34,21 +36,35 @@ Un ensemble de ressources, d'outils et d'articles de l'écosystème PHP, mis à 
 - [packagist](https://packagist.org/), dépôt principal des composants PHP  
 - [pecl](https://pecl.php.net/), le repertoire officiel des extensions de PHP ([Modernisation de la distribution et maintenance envisagée](https://externals.io/message/121927) par la communauté et initiée par la PHP Foundation et Derick Rethans)
 - [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Objectif : remplacer la SAPI PHP-FPM. Est officiellement soutenu par la  [PHP Foundation](https://thephp.foundation/blog/2025/06/08/php-30/) !
-- [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer/), l'outil puissant pour appliquer des standards de manière semi-automatisé à son code source. Composé de deux programmes: `phpcs` pour détecter les erreurs dans votre code et `phpcbs` pour corriger automatiquement celles qui peuvent l'être
-- [PHP Coding Standards Fixer (PHP CS)](https://cs.symfony.com/doc/installation.html), le linter développé par l'équipe de Symfony;
-- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
-- [psalm](https://psalm.dev/), analyseur statique de code, notamment inspiré de Hack
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
 - [PHP Quality Assurance](https://qa.php.net/)
-- [phpBench](https://phpbench.readthedocs.io/en/latest/), un framework de benchmark pour PHP, inspiré de PHPUnit
-- [PHP Coding Standards Fixer](https://cs.symfony.com/), un outil de qualité de code (linter, fixer) qui analyse et corrige automatiquement les sources au regard des standards définis les règles des PSR. Développé par Fabien Potencier et Dariusz Rumiński
-- [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles
 - [Snuffleupagus](https://snuffleupagus.readthedocs.io/), module PHP conçu pour réduire de manière drastique les coûts liés aux attaques de sites web PHP
 - [CacheTool - Manage cache in the CLI](https://github.com/gordalina/cachetool), un outil CLI pour gérer le cache (opcache) de PHP;
 - [PHPArkitect](https://github.com/phparkitect/arkitect), un outil d'analyse statique de code qui permet d'imposer des contraintes d'organisation (namespaces, dépendances, interfaces, etc.) sur les sources, en utilisant la Reflection API
 - [phptop](https://github.com/bearstech/phptop), un profiler de scripts php, développé et maintenu par [bearstech](https://bearstech.com/)
 - [parsedown](https://parsedown.org/), un parseur Markdown pour PHP (one file)
 - [PHP Matcher](https://github.com/coduo/php-matcher), lib pour tester/valider tous types de valeurs JSON/XML/TXT/scalaires par rapport à des patterns.
+
+### Analyse statique et linter
+
+- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
+- [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer/), l'outil puissant pour appliquer des standards de manière semi-automatisé à son code source. Composé de deux programmes: `phpcs` pour détecter les erreurs dans votre code et `phpcbs` pour corriger automatiquement celles qui peuvent l'être
+- [PHP Coding Standards Fixer (PHP CS)](https://cs.symfony.com/), un outil de qualité de code (linter, fixer) qui analyse et corrige automatiquement les sources au regard des standards définis les règles des PSR. Développé par Fabien Potencier et Dariusz Rumiński
+- [psalm](https://psalm.dev/), analyseur statique de code, notamment inspiré de Hack
+- [GrumPHP](https://github.com/phpro/grumphp), un outil qui se configure sur les git hooks pour tester et valider automatiquement le code commité via un ensemble de règles
+
+### Tests
+
+- [phpUnit](https://phpspec.net/en/stable/)
+- [codeception](https://codeception.com/), tests d'acceptance et fonctionnels
+- [behat](https://docs.behat.org/en/latest/), [behaviour driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [PHPSpec](https://phpspec.net/en/stable/)
+- [Kahlan](https://phpspec.net/en/stable/)
+- [Pest](https://phpspec.net/en/stable/)
+- [Mockery](https://phpspec.net/en/stable/), mock d'objets
+- [Paratest](https://phpspec.net/en/stable/), suite de tests parallélisable
+- [phpBench](https://phpbench.readthedocs.io/en/latest/), un framework de benchmark pour PHP, inspiré de PHPUnit
+
 
 ## Actualités, recommandations
 
